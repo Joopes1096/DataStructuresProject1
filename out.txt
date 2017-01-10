@@ -1,0 +1,8 @@
+Search in array
+SequentialSearch
+1 6 4 3 
+Sequential Search: SearchItem 4 is on position 2
+Array before iterative binary search
+BinarySearch
+2 4 6 8 10 15 
+Iterative Binary Search: SearchItem 3 is not in the list

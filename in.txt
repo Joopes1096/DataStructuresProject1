@@ -1,0 +1,8 @@
+SequentialSearch   4
+1 6 4 3 -999
+
+BinarySearch   3
+
+2 4 6 8 10 15 -999
+
+
